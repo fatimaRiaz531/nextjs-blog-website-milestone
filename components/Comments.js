@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, ChangeEvent, FormEvent } from "react";
+import { useState} from "react";
 
 const Comment = () => {
   const [name, setName] = useState("");
