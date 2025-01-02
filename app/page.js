@@ -28,9 +28,9 @@ export default function Home() {
           </div>
         </div>
         <div className="w-full mt-4 lg:mt-0 lg:w-1/2">
-          <img
+          <Image
             src="/images/heropic.jpg"
-            alt="Fatima as a Fullstack Developer"
+            alt="heropic"
             width={100}
             height={100}
             className="w-full h-full max-w-md mx-auto transition-transform duration-500 transform hover:scale-105"
